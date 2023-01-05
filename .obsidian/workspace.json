@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "aa78916e56321d0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b730493138bb9a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8788df956a4e5c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90f8b9fc0b4cf093",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d4cd8c61b391f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570e1de5a734dd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c4f401ed6a9f53d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0de258400aa29516",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ffc1c369de774e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85e4603fdb88b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c46ec08a1295dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7be73aabca7860f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d58585271a8cd502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b99055021e80b595",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8788df956a4e5c94",
+  "lastOpenFiles": [
+    "cpp/explicit--.md",
+    "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+    "std-cin_vs._getline().md",
+    "User type conversation.md",
+    "git_help/README.md",
+    "git_help/git_helplist.md",
+    "support.md",
+    "cpp/с++.md",
+    "cpp_build.png",
+    "Pasted image 20221227094128.png"
+  ]
+}

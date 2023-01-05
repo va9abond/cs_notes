@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "useTab": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ],
+  "autoConvertHtml": false,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

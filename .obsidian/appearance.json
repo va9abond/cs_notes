@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "translucency": true,
+  "showViewHeader": true
+}
