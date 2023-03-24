@@ -123,7 +123,7 @@ git switch -c [branch_name]
 - switches to chosen `branch_name` branch AND updates the working directory  
 
 ```bash
-git branch -m <branch_name
+git branch -m [branch_name]
 ```
 - renames master branch to `<branch_name>`
 
