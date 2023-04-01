@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "file": "git_help/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ce361b8ef8fef29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "practice1/practice1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4d05c303dc82b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lect2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c16a30135019601c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "ffc1c369de774e9f",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "file": "lect2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+                "file": "lect2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp/a_tour_of_c++/notes/chapter_1_notes.md"
+                "file": "lect2.md"
               }
             }
           }
@@ -144,20 +180,42 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8788df956a4e5c94",
+  "active": "ec4d05c303dc82b6",
   "lastOpenFiles": [
-    "cpp/explicit--.md",
+    "Untitled 1.md",
+    "other/linux.md",
+    "git_help/README.md",
+    "lect2.md",
+    "lecture_1.md",
+    "git_help/git_helplist.md",
+    "git_help/git.md",
+    "practice1/Pasted image 20230305010103.png",
+    "practice1/Pasted image 20230305010059.png",
+    "practice1/Pasted image 20230305000953.png",
+    "practice1/Pasted image 20230304234544.png",
+    "Pasted image 20230305010103.png",
+    "Pasted image 20230305010059.png",
+    "practice1/practice1.md",
+    "Pasted image 20230305000953.png",
+    "Pasted image 20230304234544.png",
+    "practice1",
+    "databases/lecture_9.md",
+    "databases/lecture_10.md",
+    "databases/images/Pasted image 20230225161539.png",
+    "databases/images/Pasted image 20230225160859.png",
+    "other2",
+    "databases/Untitled.md",
+    "databases/images",
     "cpp/a_tour_of_c++/notes/chapter_1_notes.md",
+    "databases",
+    "cpp/explicit--.md",
     "std-cin_vs._getline().md",
     "User type conversation.md",
-    "git_help/README.md",
-    "git_help/git_helplist.md",
     "support.md",
-    "cpp/с++.md",
-    "cpp_build.png",
-    "Pasted image 20221227094128.png"
+    "cpp/с++.md"
   ]
 }
